@@ -7,7 +7,7 @@
     {% include "partials/section.nunjucks" %}
 
     {% set section={id:'download',file:'download'} %} 
-    {% include "partials/download.nunjucks" %}
+    {% include "partials/section.nunjucks" %}
 
     {% set section={id:'contact',file:'partials/contact', class:"bg-light"} %} 
     {% include "partials/section.nunjucks" %}
