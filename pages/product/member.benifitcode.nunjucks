@@ -1,0 +1,12 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+       </div>
+    <p>
+        <img src="images/instance.png" alt="数字标牌软件试用" />
+    </p>
+   
+</div>
+
+{% endblock %}

@@ -1,0 +1,17 @@
+
+
+<div class="jumbotron jumbotron-fluid">
+<div class="container">
+    <h1>windows平台播放器安装</h1>
+    <p class="lead">
+        <a href="/downloads/client-x86.exe" class="btn btn-success">windows x86 下载</a> &nbsp;&nbsp;
+
+    </p>
+    <hr>
+    <h1>android平台播放器安装</h1>
+    <p class="lead">
+        <a href="/downloads/client-android.apk" class="btn btn-info">android app下载</a>
+
+    </p>
+    </div>
+</div>

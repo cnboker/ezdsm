@@ -1,0 +1,13 @@
+{% extends "layout.nunjucks" %} {% block content %}
+
+<div class="container" style="margin-top:40px">
+
+    <h2>产品简介</h2>
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">Ezdsm是一款基于云架构的数据标牌租赁业务系统, 系统采用先试用后付费营运模式..</div>
+
+    {% include "product/main.nunjucks" %}
+    {% include "product/member.nunjucks" %}
+    {% include "product/designer.nunjucks" %}
+    {% include "product/device.nunjucks" %}
+   
+{% endblock %}

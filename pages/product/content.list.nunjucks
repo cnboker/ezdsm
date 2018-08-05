@@ -1,0 +1,20 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        点击会员系统综合管理平台导航链接->内容管理, 系统会定向到内容管理系统,内容管理系统主要实现内容素材管理， 广告页面设计，发布及设备监控及远程控制功能
+    </div>
+    <p>
+        <img src="images/content.list.png" alt="广告内容列表" />
+    </p>
+
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">在内容列表页面可以做翻页,广告内容编辑,删除和离线下载操作, 离线下载的广告可以用作无无网络的应用场合, 点击节目广告图片也可以显示节目播放次数
+    </div>
+    <p>
+        <img src="images/playinfo.png" alt="广告播放信息">
+    </p>
+
+
+</div>
+
+{% endblock %}

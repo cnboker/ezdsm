@@ -1,0 +1,15 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        在添加节目组之前，首先要进行分辨率设置，根据终端设备的尺寸分辨率可以
+        任意设定，这里的分辨率就是设备的实际分辨率。
+        <br/>通过该功能可以任意添加，删除分辨率
+    </div>
+    <p>
+        <img src="images/resolutionSetting.png" alt="数字标牌软件试用" />
+    </p>
+   
+</div>
+
+{% endblock %}

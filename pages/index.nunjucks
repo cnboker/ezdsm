@@ -1,0 +1,17 @@
+{% extends "layout.nunjucks" %} 
+{% block content %} 
+ 
+    {% include "partials/header.nunjucks" %}
+
+    {% set section={id:'services',file:'service', class:"bg-light"} %} 
+    {% include "partials/section.nunjucks" %}
+
+    {% set section={id:'download',file:'download'} %} 
+    {% include "partials/download.nunjucks" %}
+
+    {% set section={id:'contact',file:'partials/contact', class:"bg-light"} %} 
+    {% include "partials/section.nunjucks" %}
+
+    {% include 'partials/footer.nunjucks' %}
+
+{% endblock %}

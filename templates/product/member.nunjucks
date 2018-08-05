@@ -1,0 +1,22 @@
+<h2>会员系统</h2>
+<div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+<ul class="nav">
+    <li class="nav-item">
+        <a class="nav-link" href="product/member.login.html">注册/登陆</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/member.try.html">试用</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/member.order.html">下单</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/member.orderlist.html">订单管理</a>
+    </li>
+     <li class="nav-item">
+        <a class="nav-link" href="product/member.agent.html">代理商</a>
+    </li>
+     <li class="nav-item">
+        <a class="nav-link" href="product/member.benifitcode.html">优惠码使用</a>
+    </li>
+</ul></div>

@@ -1,0 +1,34 @@
+<h2>内容管理系统</h2>
+<div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+<ul class="nav">
+    <li class="nav-item">
+        <a class="nav-link" href="product/content.list.html">内容列表</a>
+    </li>
+      <li class="nav-item">
+        <a class="nav-link" href="product/content.element.html">素材管理</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/content.addpg.html">添加节目组</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/content.design.html">设计器</a>
+    </li>
+     <li class="nav-item">
+        <a class="nav-link" href="product/content.addprogram.html">添加节目</a>
+    </li>
+      <li class="nav-item">
+        <a class="nav-link" href="product/content.canvas.html">添加画布</a>
+    </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/product/content.publish.html">内容发布</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/content.resolution.html">分辨率设置</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/content.device.html">终端管理</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/content.monitor.html">终端监控</a>
+    </li>
+</ul></div>

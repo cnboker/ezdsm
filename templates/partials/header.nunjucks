@@ -1,0 +1,12 @@
+<header class="bg-primary text-white">
+  <div class="container text-center">
+    <h1>云端数字标牌内容发布系统</h1>
+    <p class="lead">云端数字标牌内容发布系统为媒体提供一套Saas服务及私有化云部署，实现远程信息发布及管理、软件定制与开发、大数据展示、付费即用等应用服务. 系统以更低的价格,更可靠安全技术服务于自己的客户.
+      
+    </p>
+  </div>
+      {% set silderModel =[{className:'active', src:'images/hero1.jpg', title:'', index:0},{className:'', src:'images/hero2.png', title:'', index:1}] %}
+    {% include "partials/siderbar.nunjucks" %}
+   
+
+</header>
