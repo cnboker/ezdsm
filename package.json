@@ -1,8 +1,8 @@
 {
-    "title": "Scrolling Nav",
-    "name": "startbootstrap-scrolling-nav",
-    "version": "4.1.1",
-    "description": "A smooth scrolling navigation HTML template built with Bootstrap",
+    "title": "ezdsm.com website",
+    "name": "ezdsm",
+    "version": "0.0.1",
+    "description": "html static website",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,19 @@
     "scripts": {
         "start": "./node_modules/gulp/bin/gulp.js"
     },
-    "homepage": "https://startbootstrap.com/template-overviews/scrolling-nav",
+    "homepage": "https://www.ezdsm.com",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/issues",
+        "url": "https://github.com/cnboker/ezdsm",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "scott (http://ioliz.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-scrolling-nav.git"
+        "url": "https://github.com/cnboker/ezdsm.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
