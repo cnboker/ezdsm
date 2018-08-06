@@ -1,0 +1,27 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        <a href="/product/content.addpg.html">添加节目组</a> 后, 点击“添加节目”完成节目添加
+      <br> 弹出创建节目对话框，节目名称系统会自动生成，在此对话框可以设置播放次数，播放开始时间和播放结束时间 对于顺序播放的需求播放时间不用设置保持为空即可。
+        <br> 事件触发优先播放属性是为了满足特殊硬件需求而设计，大多数情况下该属性无效。
+  </div>
+    <p>
+        <img src="images/addProgram.png" alt="添加节目" />
+    </p>
+ 
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        点击“确认后”在设计的底部就会显示节目列表， 点击不同的单个节目，设计器会显示对于的节目内容        
+    </div>
+    <p>
+        <img src="images/programlist.png" alt="节目列表" />
+    </p>
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        选中一个节目点击右键弹出上下文菜单，通过菜单可以对当前节目排序操作，删除，或查看修改属性操作。
+    </div>
+    <p>
+        <img src="images/programContextmenu.png" alt="节目列表" />
+    </p>
+</div>
+
+{% endblock %}
