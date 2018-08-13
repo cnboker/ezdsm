@@ -7,7 +7,7 @@
         <br/>通过该功能可以任意添加，删除分辨率
     </div>
     <p>
-        <img src="images/resolutionSetting.png" alt="数字标牌软件试用" />
+        <img src="images/resolutionSetting.png" alt="数字标牌软件试用" class="img-fluid"/>
     </p>
    
 </div>

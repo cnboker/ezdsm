@@ -5,11 +5,11 @@
         对于不了解平台的用户, 可以先做试用, 点击首页"试用"链接, 进入试用页面
         <br/>选择服务器， 点击”初始化实例”创建试用实例,默认系统支持5台设备做试用操作</div>
     <p>
-        <img src="images/instance.png" alt="数字标牌软件试用" />
+        <img src="images/instance.png" alt="数字标牌软件试用" class="img-fluid" />
     </p>
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">点击初始化实例,试用实例创建成功</div>
     <p>
-        <img src="images/instanceDetail.png" alt="">
+        <img src="images/instanceDetail.png" class="img-fluid" alt="">
     </p>
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">在此界面可以选择“节目管理“或者购买正式许可，点击”节目管理“进入节目管理页面，参考”节目管理“</div>
 </div>

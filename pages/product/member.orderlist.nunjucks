@@ -8,7 +8,7 @@
         同时代理商用户可以查看到他自己客户的所以订单
         </div>
     <p>
-        <img src="images/orderlist1.png" alt="我的订单" />
+        <img src="images/orderlist1.png" alt="我的订单" class="img-fluid" />
     </p>
     </div>
 

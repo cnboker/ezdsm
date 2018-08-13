@@ -1,0 +1,25 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        下面以windwos版本为例演示设备激活过程<br>
+        启动设备端软件，弹出二维码页面
+        <br>
+    </div>
+    
+    <p>
+        <img src="images/deviceScan.png" alt="弹出二维码页面" class="img-fluid" />
+    </p>
+     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+     手机扫描二维码，这里一定要使用租户账号（这里的租户账号是指该设备属于那个租户，就用那个租户账号）登录系统，如果不是租户账号，则退出重新使用租户账号登录并重新扫描二维码。
+     打开设备激活页面，在该页面点击“设备激活”按钮激活设备
+     <br>
+     备注：激活设备的前提必须是已经创建了实例并且包含可用许可
+    </div>
+    
+    <p>
+    <img src="images/deviceActive.png" alt="" class="img-fluid">
+    </p>
+</div>
+
+{% endblock %}

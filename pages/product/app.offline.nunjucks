@@ -1,0 +1,17 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        对于无法联网的设备，可以用离线模式进行播放节目
+        <br> 首先到内容发布页面下载离线节目包
+        <br>
+    </div>
+
+    <p>
+        <img src="images/offline.download.png" alt="弹出二维码页面" class="img-fluid" />
+    </p>
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        下载完成后将该文件COPY到U盘的根目录，将U盘插入设备正常情况就可以自动播放了。
+    </div>
+
+    {% endblock %}

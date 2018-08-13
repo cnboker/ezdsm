@@ -1,0 +1,18 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        点击预览按钮弹出预览画面，点击左右上下页按钮可以预览不同节目效果，点击图片或按esc键退出预览模式，
+        <br>
+    </div>
+    
+    <p>
+        <img src="images/preview1.png" alt="发布节目" class="img-fluid" />
+    </p>
+    
+    <p>
+    <img src="images/preview2.png" alt="">
+    </p>
+</div>
+
+{% endblock %}

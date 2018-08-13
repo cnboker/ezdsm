@@ -2,11 +2,23 @@
 
 <div class="row">
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
-       </div>
+        如下图所示，点击下拉菜单打开设备监控页面 在该页面可以查看设备状态， 同时也可以修改设备名称或者设置设备的地理位置
+    </div>
     <p>
-        <img src="images/instance.png" alt="数字标牌软件试用" />
+        <img src="images/device.view3.png" alt="设备监控" class="img-fluid" />
     </p>
-   
+    <div>
+        选择要设置的设备行，点击“修改设备名称”
+    </div>
+    <p>
+        <img src="images/device.name.png" alt=""  class="img-fluid">
+    </p>
+    <div>设置地理位置：可以通过地理位置直接标注，也可以在地址栏输入精确地址回车键定位位置后再做标注</div>
+    <p>
+        <img src="images/device.geo.png" alt="设置地理位置"  class="img-fluid">
+    </p>
+    <div>标注好的设备就可以在首页方便查看了</div>
+    <p><img src="images/device.geo.view.png" alt="" class="img-fluid"></p>
 </div>
 
 {% endblock %}

@@ -7,7 +7,7 @@
        
   </div>
     <p>
-        <img src="images/emptyCanvas.png" alt="设计器显示默认画布" />
+        <img src="images/emptyCanvas.png" alt="设计器显示默认画布" class="img-fluid"/>
     </p>
  
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
@@ -16,7 +16,7 @@
         画布设置到正确的比例大小和位置后，就可以在画布上添加图文素材了，
     </div>
     <p>
-        <img src="images/canvas.png" alt="画布" />
+        <img src="images/canvas.png" alt="画布" class="img-fluid"/>
     </p>
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
         点击要添加素材的画布，右键弹出上下文菜单， 在菜单里面有新增，编辑，删除菜单项
@@ -24,7 +24,7 @@
         
     </div>
     <p>
-        <img src="images/canvasMenu.png" alt="画布菜单" />
+        <img src="images/canvasMenu.png" alt="画布菜单" class="img-fluid"/>
     </p>
 
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
@@ -35,13 +35,13 @@
         根据画布的大小等比例缩放，不打勾表示拉伸填满整个画布。       
     </div>
     <p>
-        <img src="images/addimage1.png" alt="添加图片" />
+        <img src="images/addimage1.png" alt="添加图片" class="img-fluid"/>
     </p>
     <div  class="shadow-lg p-3 mb-5 bg-white rounded w-100">
         在对话框图片管理区可以添加<b> 一张或多张照片</b>，同时也可以选中一张或多张照片做删除操作
     </div>
     <p>
-        <img src="images/addimage2.png" alt="添加图片" />
+        <img src="images/addimage2.png" alt="添加图片" class="img-fluid"/>
     </p>
 </div>
 

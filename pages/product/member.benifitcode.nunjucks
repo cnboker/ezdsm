@@ -2,10 +2,17 @@
 
 <div class="row">
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
-       </div>
-    <p>
-        <img src="images/instance.png" alt="数字标牌软件试用" />
-    </p>
+        利用优惠码可以获取到更多的折扣,折扣是双向的，即推荐人可以获利同时下单租户也可以获取相应折扣，折扣的多少是由平台根据
+        实际情况调整的
+    </div>
+    <div>
+        <h5>推荐人生成优惠码</h5>
+        <p><img src="images/code.create.png" alt="推荐人生成优惠码" class="img-fluid"/></p>
+        <h5>租户下单输入优惠码，通过截图可以看出下单租户享用了折扣</h5>
+        <p><img src="images/code.order.png" alt="租户下单输入优惠码" class="img-fluid"/></p>
+        <h5>推荐人获取佣金,只要租户下单成功，推荐人就可以找平台兑换佣金</h5>
+        <p><img src="images/code.recommander.png" alt="代理商租户设备监控" class="img-fluid"></p>
+    </div>
    
 </div>
 

@@ -1,9 +1,6 @@
  <h2>终端播放器</h2>
  <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
-<ul class="nav">
-    <li class="nav-item">
-        <a class="nav-link" href="product/app.install.html">安装</a>
-    </li>
+<ul class="nav">    
     <li class="nav-item">
         <a class="nav-link" href="product/app.activate.html">设备激活</a>
     </li>

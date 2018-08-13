@@ -1,7 +1,7 @@
 <!-- Carousel================================================== -->
 
 
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="width: 50%;margin: 0 auto;">
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="margin: 0 auto;">
         <ol class="carousel-indicators">
          {% for item in silderModel %}
             <li data-target="#carouselExampleIndicators" data-slide-to="{{item.index}}" class="{{item.className}}"></li> 
@@ -11,7 +11,7 @@
         <div class="carousel-inner">
             {% for item in silderModel %}
             <div class="carousel-item {{item.className}}">
-                <img src="{{item.src}}" class="d-block w-80">
+                <img src="{{item.src}}" class="img-fluid">
                 <div class="container">
                     <div class="carousel-caption">
                         <h1>{{item.title}}</h1>

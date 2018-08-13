@@ -10,7 +10,7 @@
   padding-bottom: 2rem;
 }
 .imgwrapper {
-  width: 50%;
+  width: 100%;
 }
 h3 {
   margin-top: 2rem;
@@ -30,6 +30,7 @@ hr {
 }
  @media screen and (max-width: 768px) {
      body { padding-top: 0px; }
+    
  }
 header {
   padding: 154px 0 100px;
@@ -39,6 +40,7 @@ header {
   header {
     padding: 156px 0 100px;
   }
+  .carousel{width:50%}
 }
 
 section {

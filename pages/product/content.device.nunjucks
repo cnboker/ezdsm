@@ -2,11 +2,15 @@
 
 <div class="row">
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        在会员首页点击设备总数或在线总数链接，进入设备监控页面，在该页面可以查看设备的运行状况及许可使用情况，许可过期的设备
+        也可以在此重新激活，许可不足就走<a href="/product/member.order.html">购买许可</a>流程
        </div>
     <p>
-        <img src="images/instance.png" alt="数字标牌软件试用" />
+        <img src="images/device.view.png" alt="数字标牌软件试用" class="img-fluid"/>
     </p>
-   
+   <p>
+    <img src="images/device.view2.png" alt=""class="img-fluid"/>
+   </p>
 </div>
 
 {% endblock %}

@@ -2,10 +2,20 @@
 
 <div class="row">
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
-       </div>
-    <p>
-        <img src="images/instance.png" alt="数字标牌软件试用" />
-    </p>
+        引进代理商的目的是为了更好的管理租户，比如一个代理商账号下面可以管理一个或多个租户，
+        代理商本身不能生成实例，但他可以用他管理租户的账号登录系统，为相应租户创建实例,激活设备等操作；<br>
+        代理商可以监控管理租户的设备,也可以查看管理租户的订单;
+        <br/>代理商除了利用优惠码获取折扣外还可以与平台协商获得更多的优惠政策.
+        <br>代理商的身份需要找平台管理员申请
+    </div>
+    <div>
+        <h5>代理商租户账号管理,通过该功能可以添加租户账号</h5>
+        <p><img src="images/agent.users.png" alt="代理商租户账号管理" class="img-fluid"/></p>
+        <h5>代理商租户订单管理</h5>
+        <p><img src="images/agent.order.png" alt="代理商租户订单管理" class="img-fluid"/></p>
+        <h5>代理商租户设备监控</h5>
+        <p><img src="images/agent.device.png" alt="代理商租户设备监控" class="img-fluid"></p>
+    </div>
    
 </div>
 

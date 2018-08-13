@@ -8,11 +8,11 @@
 
     </div>
    <p>
-    <img src="images/login.png" alt="登陆"/>
+    <img src="images/login.png" class="img-fluid" alt="登陆"/>
         </p>
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">如果还未注册, 点击”注册“按钮进行注册</div>
     <p>
-    <img src="images/reg.png" alt="">
+    <img src="images/reg.png" class="img-fluid" alt="">
     </p>
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">忘记密码，点击"重置密码"</div>
     

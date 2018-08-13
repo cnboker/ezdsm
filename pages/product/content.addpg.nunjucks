@@ -5,19 +5,19 @@
         内容管理点击“添加节目组”
        </div>
     <p>
-        <img src="images/addpgClick.png" alt="添加节目组" />
+        <img src="images/addpgClick.png" alt="添加节目组" class="img-fluid"/>
     </p>
      <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
         弹出创建节目组对话框，在该对话框设定节目组名称和设备分辨率点击“确定”按钮
        </div>
     <p>
-        <img src="images/pgadd.png" alt="创建节目组对话框" />
+        <img src="images/pgadd.png" alt="创建节目组对话框" class="img-fluid"/>
     </p>
      <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
         弹出创建节目组对话框，在该对话框设定节目组名称和设备分辨率点击“确定”按钮
        </div>
     <p>
-        <img src="images/pgadd.png" alt="创建节目组对话框" />
+        <img src="images/pgadd.png" alt="创建节目组对话框" class="img-fluid" />
     </p>
 </div>
 

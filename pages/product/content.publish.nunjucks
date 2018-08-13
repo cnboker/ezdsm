@@ -2,11 +2,22 @@
 
 <div class="row">
     <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
-       </div>
+        节目设计完成后可以<a href="product/content.preview.html">预览节目</a>图片看设计效果,如果确定设计达到预先效果，下一步就可以发布节目了，
+        <br>
+    </div>
+    
     <p>
-        <img src="images/instance.png" alt="数字标牌软件试用" />
+        <img src="images/public.click.png" alt="发布节目" class="img-fluid" />
     </p>
-   
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        弹出发布对话框，在对话框里面输入日期，日期区间的意义就是告诉设备，只要日期落在该区间范围，则播放这个节目组，接着选择
+        设备，将发布的设备移动右边栏，点击确认则发布完成。
+        <br>
+        终端设备会定期检查是否由新的内容通知，如果有则会下载新内容到本地待播放。
+    </div>
+    <p>
+    <img src="images/publish.png" alt="" class="img-fluid"/>
+    </p>
 </div>
 
 {% endblock %}

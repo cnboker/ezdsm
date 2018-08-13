@@ -5,15 +5,15 @@
     无论是试用会员还是正式会员都可以通过点击首页->许可购买链接做下单操作，点击“许可购买”进入下单页面
   </div>
   <p>
-    <img src="images/order.png" alt="数字标牌-下单"  class="p-3 w-75" />
+    <img src="images/order.png" alt="数字标牌-下单"  class="img-fluid" />
   </p>
   <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">在下单页面用户可以修改设备数量, 购买周期，如果有优惠码可以输入优惠码,系统会自动计算出实际的支付费用， 点击 "去付款” 进入付款页面</div>
   <p>
-    <img src="images/checkout.png" alt="数字标牌-结算" class="p-3 w-75">
+    <img src="images/checkout.png" alt="数字标牌-结算" class="img-fluid">
   </p>
   <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">在付款页面， 目前系统支持“微信扫码结算”，使用手机扫描二维码进行付款操作，付款成功后可以点击 "查看订单" 可以查看订单详情</div>
   <p>
-    <img src="images/orderlist.png" alt="数字标牌-订单详情" class="p-3 w-75">
+    <img src="images/orderlist.png" alt="数字标牌-订单详情" class="img-fluid">
   </p>
 </div>
 
