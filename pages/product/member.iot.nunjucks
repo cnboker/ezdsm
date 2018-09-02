@@ -1,0 +1,35 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        利用传感器监控功能可以进一步了解设备的温度，湿度，风扇，门禁，电，烟雾等状况
+    </div>
+    <div>
+      <h5>数据监控</h5>
+        <p>会员首页监控区域会动态显示当前租户传感器的监控状况，绿色表示该特性运行正常数，黄色表示超过预警数，红色表示故障或存在严重问题数</p>
+        <p><img src="images/iot.click.png" alt="" class="img-fluid"></p>
+        <h5>配置传感器关联设备</h5>
+        <p>进入会员首页,点击设备链接进入设备管理页面</p>
+        <p><img src="images/iot.device.click.png" alt="设备管理页面" class="img-fluid"/></p>
+        <h5>点击“设置传感器”按钮</h5>
+        <p><img src="images/iot.set.sensorno.png" class="img-fluid">
+        </p>
+         <h5>输入传感器编号,点击确定完成设置</h5>
+           <p><img src="images/iot.set.sensorno.ok.png" class="img-fluid">
+        </p>
+        <hr>
+        <h5>为传感器参数设置报警条件,点击传感器详情页面</h5>
+        <p><img src="images/iot.click.png" alt="" class="img-fluid"/></p>
+        <h5>进入传感器监控页面</h5>
+        <p><img src="images/iot.senser.detail.png" alt=""></p>
+        <h5>设置报警条件</h5>
+        <p>点击配置图标弹出设置对话框</p>
+        <p><img src="images/iot.senser.settings.png" alt=""></p>
+         <p>如下图所示，当温度低于30度是显示绿色，大于30小于40度显示黄色，大于40度显示红色背景，通过该规则可以为每一个监控属性设置条件</p>
+        <p><img src="images/iot.senser.setting2.png" alt=""></p>
+      
+    </div>
+   
+</div>
+
+{% endblock %}

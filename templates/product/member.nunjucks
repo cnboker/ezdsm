@@ -19,4 +19,7 @@
      <li class="nav-item">
         <a class="nav-link" href="product/member.benifitcode.html">优惠码使用</a>
     </li>
+    <li class="nav-item">
+        <a class="nav-link" href="product/member.iot.html">传感器设置与监控</a>
+    </li>
 </ul></div>
